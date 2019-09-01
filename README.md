@@ -11,7 +11,7 @@ Your image will listed by `docker images` command:
 ```zsh
 $ docker images
 
-#Example
+# Example
 REPOSITORY                          TAG           ID            CREATED
 node                                10            1934b0b038d1  5 days ago
 <your username>/docker-node-app     latest        d64d3505b0d2  1 minute ago
