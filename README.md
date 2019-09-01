@@ -26,7 +26,7 @@ docker run -it -d -p 9000:8080 <your username>/docker-node-app
 
 if you wish to go inside the container, you can use following command:
 ```zsh
-#Enter in the container
+# Enter in the container
 $ docker exec -it <container id> /bin/bash
 ```
 
