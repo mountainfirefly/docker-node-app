@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/mountainfirefly/docker-node-app#readme",
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.19.2"
   }
 }
